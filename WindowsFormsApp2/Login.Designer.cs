@@ -1,5 +1,4 @@
-﻿
-namespace WindowsFormsApp2
+﻿namespace WindowsFormsApp2
 {
     partial class Login
     {
@@ -44,6 +43,7 @@ namespace WindowsFormsApp2
             this.username.Name = "username";
             this.username.Size = new System.Drawing.Size(145, 20);
             this.username.TabIndex = 1;
+            this.username.EditValueChanged += new System.EventHandler(this.onChange_Username);
             // 
             // User
             // 
@@ -67,6 +67,8 @@ namespace WindowsFormsApp2
             this.password.Name = "password";
             this.password.Size = new System.Drawing.Size(145, 20);
             this.password.TabIndex = 4;
+            this.password.Properties.PasswordChar = '*'; // Set password char
+            this.password.EditValueChanged += new System.EventHandler(this.onChange_password);
             // 
             // simpleButton1
             // 

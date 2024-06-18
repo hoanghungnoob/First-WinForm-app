@@ -45,3 +45,5 @@ D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v19.2
 D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
 D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
 D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.View.Register.resources

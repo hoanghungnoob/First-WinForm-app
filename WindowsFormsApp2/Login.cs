@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using WindowsFormsApp2.View;
+
 namespace WindowsFormsApp2
 {
     public partial class Login : Form
@@ -78,5 +80,12 @@ namespace WindowsFormsApp2
             }
         }
 
+        private void Open_Register(object sender, EventArgs e)
+        {
+            this.Hide();
+            Register registerForm = new Register();
+            registerForm.ShowDialog();
+            this.Show();
+        }
     }
 }

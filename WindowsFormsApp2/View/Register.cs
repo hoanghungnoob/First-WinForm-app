@@ -66,7 +66,7 @@ namespace WindowsFormsApp2.View
 
                         if (result > 0)
                         {
-                            MessageBox.Show("Registration successful!");
+                            MessageBox.Show("Registration successful!","Succcessfull",MessageBoxButtons.OKCancel,MessageBoxIcon.Information);
                             this.Hide();
                             Login formLogin = new Login();
                             formLogin.ShowDialog();

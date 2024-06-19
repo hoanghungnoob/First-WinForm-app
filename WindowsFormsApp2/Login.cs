@@ -45,6 +45,11 @@ namespace WindowsFormsApp2
         }
         private void Login_Click(object sender, EventArgs e)
         {
+            /*
+            int num = 1;
+            int num2 = 2;
+            MessageBox.Show("Answer is: " + (num + num2).ToString());
+            */
             if (string.IsNullOrEmpty(name) || string.IsNullOrEmpty(pass))
             {
                 MessageBox.Show("Please input name and password");

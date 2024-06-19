@@ -47,3 +47,4 @@ D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj
 D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
 D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
 D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.View.Register.resources
+D:\KCL_LEARN\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.View.Operator.resources
